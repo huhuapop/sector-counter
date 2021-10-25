@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	pb "github.com/echowxsy/sector-counter/proto"
+	pb "github.com/huhuapop/sector-counter/proto"
 	"google.golang.org/grpc"
 )
 
